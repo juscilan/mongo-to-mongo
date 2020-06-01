@@ -1,0 +1,5 @@
+node_modules
+pass.txt
+*.txt
+.eslintrc.json
+yarn.lock

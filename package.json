@@ -1,0 +1,68 @@
+{
+  "_from": "mongo-to-mongo",
+  "_id": "mongo-to-mongo@1.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-yowzgSGPsRvFyBYNoRDfEU0X8Qo7LcNNhCQl/9q6eWd315Jenkp0NIXfDrj5C6eVc35hLL678oSjnPkU4JpogQ==",
+  "_location": "/mongo-to-mongo",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "mongo-to-mongo",
+    "name": "mongo-to-mongo",
+    "escapedName": "mongo-to-mongo",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/mongo-to-mongo/-/mongo-to-mongo-1.1.1.tgz",
+  "_shasum": "12ad845147116597e115aa122a6677f35f19e789",
+  "_spec": "mongo-to-mongo",
+  "_where": "/Users/juscilanmoreto/projects/mongo",
+  "author": {
+    "name": "juscilan moreto",
+    "url": "juscilan.com"
+  },
+  "bugs": {
+    "url": "https://github.com/juscilan/mongo-to-mongo/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "mongodb": "^2.2.24"
+  },
+  "deprecated": false,
+  "description": "app to transfer mongodb for other instance",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "eslint": "^4.4.1",
+    "eslint-config-airbnb-base": "^11.3.1",
+    "eslint-plugin-import": "^2.7.0",
+    "mocha": "^3.2.0"
+  },
+  "engines": {
+    "node": ">=7.6.0"
+  },
+  "homepage": "https://github.com/juscilan/mongo-to-mongo#readme",
+  "keywords": [
+    "mongodb",
+    "nodejs",
+    "mongoose",
+    "datascience"
+  ],
+  "license": "ISC",
+  "main": "api.js",
+  "name": "mongo-to-mongo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juscilan/mongo-to-mongo.git"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "version": "1.1.1"
+}
