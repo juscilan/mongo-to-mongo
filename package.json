@@ -32,7 +32,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "mongodb": "^2.2.24"
+    "mongodb": "^3.6.1"
   },
   "deprecated": false,
   "description": "app to transfer mongodb for other instance",
